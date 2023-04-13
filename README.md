@@ -1,7 +1,7 @@
 # OpenData Logistics Ressources
 
 Countries
-- Engish : https://www.geonames.org/countries/ & http://download.geonames.org/export/dump/allCountries.zip
+- English : https://www.geonames.org/countries/ & http://download.geonames.org/export/dump/allCountries.zip
 - French : https://www.data.gouv.fr/fr/datasets/etats-et-capitales-du-monde/
 
 Country Flags :
